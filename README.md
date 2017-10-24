@@ -1,4 +1,5 @@
 # Talks
 
-See https://victorparmar.github.io/
+See https://victorparmar.github.io/talks/
+
 
